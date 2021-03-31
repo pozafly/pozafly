@@ -1,20 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Pozafly&fontSize=90)
 
-# Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1611981042/12288/nyan_wallstreetbets.gif?1611981042" width="30"/> 
-
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1611981042/12288/nyan_wallstreetbets.gif?1611981042" width="30"/> 
+    Tech Stack 
+  <img src="https://emojis.slackmojis.com/emojis/images/1611981042/12288/nyan_wallstreetbets.gif?1611981042" width="30"/> 
+</h3>
 
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/react-0088CC?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/vue-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/ES6+-ffb13b?style=flat&logo=javascript&logoColor=white"/> 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat&logo=MySql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-E6B91E?style=flat&logo=MySql&logoColor=white"/>
   <img src="https://img.shields.io/badge/aws-333664?style=flat&logo=amazon-aws&logoColor=white"/>
 </p>
 
