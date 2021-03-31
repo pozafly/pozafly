@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there  
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=pozafly&show_icons=true" />
 <!--
 **pozafly/pozafly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![pozafly's GitHub stats](https://github-readme-stats.vercel.app/api?username=pozafly)](https://github.com/pozafly/)
+
+[![Tech Blog Badge](https://img.shields.io/badge/Blog-test-blue?logo=Gatsby&logoColor=white&link=https://pozafly.github.io/)](https://pozafly.github.io/)
