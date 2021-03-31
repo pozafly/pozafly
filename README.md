@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Pozafly&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Pozafly&fontSize=90&animation=scaleIn)
 
 <h3 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1611981042/12288/nyan_wallstreetbets.gif?1611981042" width="30"/> 
