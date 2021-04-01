@@ -21,7 +21,7 @@
 
 <h3 align="center">📫 Contacts 📫</h3>
 <p align="center">
-  <a href="https://pozafly.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-blue?logo=Gatsby&logoColor=white" /></a>
+  <a href="https://pozafly.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-6611F5?logo=Gatsby&logoColor=white" /></a>
   <a href="https://www.instagram.com/pozafly_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/pozafly_/"/></a>
   <a href="mailto:pozafly@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
