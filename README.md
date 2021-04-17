@@ -6,17 +6,17 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1611981042/12288/nyan_wallstreetbets.gif?1611981042" width="30"/> 
 </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/react-0088CC?style=flat&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vue-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-0088CC?style=flat&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat&logo=styled-components&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white"/></a>
   <br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-E6B91E?style=flat&logo=MySql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/aws-333664?style=flat&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-333664?style=flat&logo=amazon-aws&logoColor=white"/>
 </p>
 
 <h3 align="center">📫 Contacts 📫</h3>
